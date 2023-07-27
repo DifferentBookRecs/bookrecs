@@ -16,19 +16,13 @@ p {
     
 }
 
-ul {
-    text-align: left;
-}
-
-li {
-    text-align: left;
-}
 .retro-box {
     border: 2px solid #800000;
     background-color: #ffcc00;
     padding: 20px;
     margin: 30px auto;
     max-width: 600px;
+    text-align: left;
 }
 
 .retro-button {
