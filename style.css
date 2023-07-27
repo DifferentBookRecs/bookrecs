@@ -6,7 +6,7 @@ body {
     margin: 50px;
 }
 
-.retro-h1 {
+h1 {
     color: #800000;
 }
 
@@ -16,6 +16,13 @@ p {
     
 }
 
+ul {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
 .retro-box {
     border: 2px solid #800000;
     background-color: #ffcc00;
