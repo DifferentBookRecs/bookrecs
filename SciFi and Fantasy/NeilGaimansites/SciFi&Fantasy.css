@@ -59,3 +59,19 @@ p {
     background-color: #008080;
     border: 2px solid #008080;
 }
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: grey;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color:white:
+}
