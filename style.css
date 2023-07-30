@@ -41,6 +41,22 @@ p {
     color: #800000;
 }
 
+a {
+    color: white;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color:white:
+}
+
 .retro-image {
     max-width: 100%;
     height: auto;
