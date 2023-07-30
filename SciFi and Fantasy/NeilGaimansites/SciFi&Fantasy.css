@@ -1,13 +1,14 @@
 body {
-    background-color: black;
-    color: black;
+    background-color: burgendy;
+    color: #FFFFF0;
     font-family: "Courier New", monospace;
     text-align: center;
     margin: 50px;
 }
 
 h1 {
-    color: #800000;
+    color: FFD700;
+    font-family: "Trojan Pro", monospace;
 }
 
 p {
