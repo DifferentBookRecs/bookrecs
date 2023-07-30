@@ -42,11 +42,11 @@ p {
 }
 
 a {
-    color: white;
+    color: black;
 }
 
 a:visited {
-    color: black;
+    color: grey;
 }
 
 a:hover {
