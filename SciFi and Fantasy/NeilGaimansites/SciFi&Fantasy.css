@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    color: black;
+    font-family: "Courier New", monospace;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    color: #800000;
+}
+
+p {
+    margin: 20px 0;
+    text-align: left;
+    text-emphasis: 2px;
+    text-emphasis: black;
+
+}
+
+.retro-box {
+    border: 2px solid whitesmoke;
+    background-color: #ffcc00;
+    padding: 20px;
+    margin: 30px auto;
+    max-width: 600px;
+    text-align: left;
+}
+
+.retro-button {
+    background-color: #800000;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-family: "Courier New", monospace;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.retro-button:hover {
+    background-color: #ffcc00;
+    color: #800000;
+}
+
+.retro-image {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 10px;
+}
+
+.container {
+    display: flex; /* Use flexbox to create a flexible container */
+    align-items: center;
+    background-color: #ffcc00;
+    border: 2px solid whitesmoke;
+}
