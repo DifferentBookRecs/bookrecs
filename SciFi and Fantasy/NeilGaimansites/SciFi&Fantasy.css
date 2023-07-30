@@ -20,8 +20,8 @@ p {
 }
 
 .retro-box {
-    border: 2px solid whitesmoke;
-    background-color: #ffcc00;
+    border: 2px solid #008080;
+    background-color: #008080;
     padding: 20px;
     margin: 30px auto;
     max-width: 600px;
@@ -56,6 +56,6 @@ p {
 .container {
     display: flex; /* Use flexbox to create a flexible container */
     align-items: center;
-    background-color: #ffcc00;
-    border: 2px solid whitesmoke;
+    background-color: #008080;
+    border: 2px solid #008080;
 }
